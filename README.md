@@ -1,4 +1,4 @@
-![I am Rezaul Karim](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/309103377_162844513078839_2745608028752341277_n.jpg?stp=dst-jpg_p180x540&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFDTeWZ3dKTlkckVE2f-DFFwDg2PEJS-Z3AODY8QlL5nZiMrJOW313OpwDbUWwXvpLQEHrFEbVdHE3dsg3-ocqg&_nc_ohc=4WBjc21_KHcAX9sM_Iz&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AT-Zo040el-mX7j8u-k8fJCraiwKZDhtYJWH_mJTY0onjw&oe=633F34FD)
+![I am Rezaul Karim](https://github.com/fahim369x/fahim369x/blob/ea610018071de2b6753dd5605d25bc8677dee80a/309103377_162844513078839_2745608028752341277_n.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Rezaul Karim</h1>
