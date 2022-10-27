@@ -9,19 +9,19 @@
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
 Knock me: https://web.facebook.com/farhanfahim369x
 
-Skills: PHP/ JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills: JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / EXPRESS / MONGODB / BOTSTRAP / HTML / CSS
  
-- 🌱 I’m currently learning **JS, Python, React**
+- 🌱 I’m currently learning **JS , React, node**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rezaul360](https://github.com/rezaul360)
+- 👨‍💻 All of my projects are available at [https://github.com/fahim369x](https://github.com/fahim369x)
 
-- 📝 I regularly write articles on [https://www.youtube.com/rezaul360deg](https://www.youtube.com/rezaul360deg)
+- 📝 I regularly upload video on [https://www.youtube.com/fahim369x](https://www.youtube.com/channel/UCBUisl_7nusc8UpZrys61jQ)
 
 - 💬 Ask me about ** HTML/ CSS / BOOTSTRAP / JAVASCRIPT / REACT / NODE.JS / PHP/   **
 
-- 📫 How to reach me **rezaulkarim2448@gmail.com**
+- 📫 How to reach me **fahim369x@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/rezaul360](https://linktr.ee/rezaul360)
+- 📄 All About Me:[](not available)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
