@@ -4,10 +4,10 @@
 <h1 align="center">Hi 👋, I'm Farhan Fahim</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer</h3>
 
-![Profile views](https://gpvc.arturio.dev/rezaul360) 
+![Profile views](https://gpvc.arturio.dev/fahim369x) 
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
-Knock me: mobile.facebook.com/rezaull360
+Knock me: https://web.facebook.com/farhanfahim369x
 
 Skills: PHP/ JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
