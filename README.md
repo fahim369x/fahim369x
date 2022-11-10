@@ -1,4 +1,4 @@
-![I'm Farhan Fahim](https://github.com/fahim369x/fahim369x/blob/ea610018071de2b6753dd5605d25bc8677dee80a/309103377_162844513078839_2745608028752341277_n.jpg)
+![I'm Farhan Fahim]()
 
 
 <h1 align="center">Hi 👋, I'm Farhan Fahim</h1>
