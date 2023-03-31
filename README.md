@@ -1,4 +1,4 @@
-![I'm Farhan Fahim]()
+![I'm Fahim Farhan]()
 
 
 <h1 align="center">Hi 👋, I'm Farhan Fahim</h1>
@@ -17,7 +17,7 @@ Skills: JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / EXPRESS / MONGODB / BOTSTRAP / 
 
 - 📝 I regularly upload video on [https://www.youtube.com/fahim369x](https://www.youtube.com/channel/UCBUisl_7nusc8UpZrys61jQ)
 
-- 💬 Ask me about ** HTML/ CSS / BOOTSTRAP / JAVASCRIPT / REACT / NODE.JS / PHP/   **
+- 💬 Ask me about ** HTML/ CSS / TAILWIND / JAVASCRIPT / REACT / NODE.JS / MONGODB / EXPRESS.JS / NEXT.JS /  **
 
 - 📫 How to reach me **fahim369x@gmail.com**
 
