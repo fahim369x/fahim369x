@@ -1,15 +1,15 @@
 ![I'm Fahim Farhan]()
 
 
-<h1 align="center">Hi 👋, I'm Farhan Fahim</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer</h3>
+<h1 align="center">Hi 👋, I'm Fahim Farhan</h1>
+<h3 align="center">MERN Stack Web Developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/fahim369x) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
+Welcome to my GitHub profile. I am a MERN Stack Developer. 
 Knock me: https://web.facebook.com/farhanfahim369x
 
-Skills: JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / EXPRESS / MONGODB / BOTSTRAP / HTML / CSS
+Skills: JAVASCRIPT/ TAILWIND / NODE.JS / REACT / EXPRESS / MONGODB / NEXT.JS / HTML / CSS
  
 - 🌱 I’m currently learning **JS , React, node**
 
