@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Fahim Farhan</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+<h3 align="center">Jr. Frontend Web Developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/fahim369x) 
 
