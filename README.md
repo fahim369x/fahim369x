@@ -6,18 +6,16 @@
 
 ![Profile views](https://gpvc.arturio.dev/fahim369x) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer. 
-Knock me: https://web.facebook.com/farhanfahim369x
+I am a Jr. Frontend Developer. 
+Knock me: https://web.facebook.com/fahim369xyz
 
-Skills: JAVASCRIPT/ TAILWIND / NODE.JS / REACT / EXPRESS / MONGODB / NEXT.JS / HTML / CSS
+Skills: HTML || CSS || BOOTSTRAP || TAILWIND CSS || JAVASCRIPT || REACT JS || NODE JS || NEXT JS || EXPRESS JS || MONGODB || 
  
-- 🌱 I’m currently learning **JS , React, node**
-
 - 👨‍💻 All of my projects are available at [https://github.com/fahim369x](https://github.com/fahim369x)
 
-- 📝 I regularly upload video on [https://www.youtube.com/fahim369x](https://www.youtube.com/channel/UCBUisl_7nusc8UpZrys61jQ)
+- 📝 My Youtube channel [https://www.youtube.com/fahim369x](https://www.youtube.com/channel/UCBUisl_7nusc8UpZrys61jQ)
 
-- 💬 Ask me about ** HTML/ CSS / TAILWIND / JAVASCRIPT / REACT / NODE.JS / MONGODB / EXPRESS.JS / NEXT.JS /  **
+- 💬 Ask me about ** Programming/Webdevelopment  **
 
 - 📫 How to reach me **fahim369x@gmail.com**
 
