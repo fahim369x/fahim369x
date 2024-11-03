@@ -1,7 +1,7 @@
 ![I'm Fahim Ahmed]()
 
 
-<h1 align="center">Hi 👋, I'm Fahim Farhan</h1>
+<h1 align="center">Hi 👋, I'm Fahim Ahmed</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
 I am a Frontend Developer. 
